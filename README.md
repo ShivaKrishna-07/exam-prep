@@ -6,7 +6,7 @@
 ## 🚀 Project Overview
 
 **Prep** is an academic support platform built for college students to simplify exam preparation.  
-It provides **syllabus-wise notes, previous year question papers (PYQs), curated video resources, and AI-powered analysis** to identify important and frequently repeated questions.
+It provides **subject-wise notes, previous year question papers (PYQs), syllabus, curated video resources, and AI-powered analysis** to identify important and frequently repeated questions.
 
 The platform aims to reduce scattered resources and bring everything under **one centralized learning system**.
 
@@ -86,4 +86,5 @@ npm run build
 ```shell
 npm start
 ```
+
 
